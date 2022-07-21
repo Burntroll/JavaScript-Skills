@@ -44,3 +44,11 @@ button {
     margin: 0 20px;
     font-size: 16pt;
 }
+
+.positive {
+    color: black;
+}
+
+.negative {
+    color: red;
+}
