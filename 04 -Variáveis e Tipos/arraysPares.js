@@ -1,3 +1,5 @@
+
+
 function substituiPares(array) {
     if (!array) return -1;
     if (!array.length) return -1;
